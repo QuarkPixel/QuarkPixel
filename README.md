@@ -1,9 +1,17 @@
 # Under construction🚧
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="QuarkPixel's Banner" src="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+  <img alt="QuarkPixel's Banner" src="./assets/banner-dark.png">
+</picture>
+
+<!-- test if pdf can work -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.pdf">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.pdf">
+  <img alt="QuarkPixel's Banner" src="./assets/banner-dark.pdf">
 </picture>
 
 <picture>
