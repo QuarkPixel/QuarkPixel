@@ -15,9 +15,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&pause=1000&color=FF4B4B&center=true&vCenter=true&width=435&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+light+and+dark+modes.;You+are+using+dark+mode+%3A+)">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&pause=1000&color=384B70&center=true&vCenter=true&width=435&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+dark+and+light+modes.;You+are+using+light+mode+%3A+)">
-  <img src="https://readme-typing-svg.demolab.com?font=Micro+5&pause=1000&color=FF4B4B&center=true&vCenter=true&width=435&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust." alt="Typing SVG">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=1000&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+light+and+dark+modes.;You+are+using+dark+mode+%3A+)">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=1000&color=384B70&center=true&vCenter=true&width=1280&height=100&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+dark+and+light+modes.;You+are+using+light+mode+%3A+)">
+  <img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=1000&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust." alt="Typing SVG">
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuarkPixel)](https://github.com/anuraghazra/github-readme-stats)
