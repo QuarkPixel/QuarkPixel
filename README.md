@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="QuarkPixel's Banner" src="./assets/banner-light.svg">
+  <img alt="QuarkPixel's Banner" src="./assets/banner-dark.svg">
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuarkPixel)](https://github.com/anuraghazra/github-readme-stats)
