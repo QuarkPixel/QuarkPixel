@@ -1,5 +1,4 @@
 # Under construction🚧
-### Hi there 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
@@ -7,15 +6,20 @@
   <img alt="QuarkPixel's Banner" src="./assets/banner-dark.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&pause=1000&color=FF4B4B&center=true&vCenter=true&width=435&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+light+and+dark+modes.;You+are+using+dark+mode+%3A+)">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&pause=1000&color=384B70&center=true&vCenter=true&width=435&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+dark+and+light+modes.;You+are+using+light+mode+%3A+)">
+  <img src="https://readme-typing-svg.demolab.com?font=Micro+5&pause=1000&color=FF4B4B&center=true&vCenter=true&width=435&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust." alt="Typing SVG">
+</picture>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuarkPixel)](https://github.com/anuraghazra/github-readme-stats)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuarkPixel)](https://wakatime.com/@QuarkPixel)
 
-
 <h1 align="center">Hi 👋, I'm Xuancong Meng</h1>
 <h3 align="center">A passionate software engineering student from China</h3>
 
-- 🔭 I’m currently working on [ChunkedVec](https://crates.io/crates/chunked_vec)
+- 🔭 I’m currently exploring on [ChunkedVec](https://crates.io/crates/chunked_vec)
 
 - 📫 How to reach me **xuantungmeng@gmail.com**
 
