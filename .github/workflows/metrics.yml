@@ -1,15 +1,14 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  schedule:
+    - cron: "0 0 * * *" # 每天 UTC 00:00 运行
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push:
+    branches: ["main", "master"]
 jobs:
-  github-metrics:
+  github-metrics-light:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
@@ -17,15 +16,29 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # Enable WakaTime plugin
+          filename: metrics/wakatime.light.svg
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: time, languages, editors
-          plugin_wakatime_days: 7 # 显示最近 7 天的统计
-          # Output settings
-          filename: metrics.plugin.wakatime.svg
-          base: "" # 禁用默认统计，只生成 WakaTime
-          # Theme for light/dark mode
+          plugin_wakatime_days: 7
           template: classic
-          config_timezone: Asia/Shanghai # 调整为你的时区
-          
+          config_timezone: Asia/Shanghai
+  github-metrics-dark:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/wakatime.dark.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, languages, editors
+          plugin_wakatime_days: 7
+          template: dracula
+          config_timezone: Asia/Shanghai
