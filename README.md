@@ -18,9 +18,11 @@
   <img alt="QuarkPixel's Banner" src="./assets/divider.dark.png">
 </picture>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuarkPixel)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuarkPixel)](https://wakatime.com/@QuarkPixel) -->
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Hsuan's github stats](https://github-readme-stats.vercel.app/api?username=quarkpixel&show_icons=true&theme=dracula)
 
 <h1 align="center">Hi 👋, I'm Xuancong Meng, or just Hsuan.</h1>
 <h3 align="center">A passionate software engineering student from China</h3>
