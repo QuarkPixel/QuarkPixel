@@ -7,14 +7,20 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=1000&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+light+and+dark+modes.;You+are+using+dark+mode+%3A+)">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=1000&color=BB2525&center=true&vCenter=true&width=1280&height=100&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+dark+and+light+modes.;You+are+using+light+mode+%3A+)">
-  <img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=1000&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust." alt="Typing SVG">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=1000&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+light+and+dark+modes.;You+are+using+dark+mode+%3A+)">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=1000&color=BB2525&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+dark+and+light+modes.;You+are+using+light+mode+%3A+)">
+  <img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=1000&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust." alt="Typing SVG">
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuarkPixel)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.png">
+  <img alt="QuarkPixel's Banner" src="./assets/divider-dark.png">
+</picture>
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuarkPixel)](https://wakatime.com/@QuarkPixel)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuarkPixel)](https://github.com/anuraghazra/github-readme-stats)
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuarkPixel)](https://wakatime.com/@QuarkPixel) -->
 
 <h1 align="center">Hi 👋, I'm Xuancong Meng</h1>
 <h3 align="center">A passionate software engineering student from China</h3>
