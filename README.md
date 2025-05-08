@@ -7,9 +7,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=100&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+light+and+dark+modes.;You+are+using+dark+mode+%3A+)">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=100&color=BB2525&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+dark+and+light+modes.;You+are+using+light+mode+%3A+)">
-  <img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&pause=100&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust." alt="Typing SVG">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&duration=3000&pause=100&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+light+and+dark+modes.;You+are+using+dark+mode+%3A+)">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&duration=3000&pause=100&color=BB2525&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+dark+and+light+modes.;You+are+using+light+mode+%3A+)">
+  <img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&duration=3000&pause=100&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust." alt="Typing SVG">
 </picture>
 
 <picture>
@@ -19,6 +19,8 @@
 </picture>
 
 ### Hi 👋, I'm Xuancong Meng, or just Hsuan.
+
+[![wakatime](https://wakatime.com/badge/user/018b19a3-343c-48f6-8ba9-5713e3a014cc.svg?style=for-the-badge)](https://wakatime.com/@018b19a3-343c-48f6-8ba9-5713e3a014cc)
 
 - 🔭 I’m currently learning through the project [ChunkedVec](https://crates.io/crates/chunked_vec)
 
@@ -46,14 +48,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/quark-pixel)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.cn/u/quark-pixel/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19973472/quarkpixel)
-[![Unsplash](https://img.shields.io/badge/Unsplash-000000.svg?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@quarkpixel)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/quark_pixel/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Quark_Pixel/)
-[![Twitter](https://img.shields.io/badge/Twitter-2A9EF1.svg?style=for-the-badge)](https://twitter.com/quark_pixel)
-
 ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
@@ -70,19 +64,38 @@
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarkpixel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=quarkpixel&show_icons=true&title_color=FF4B4B&bg_color=24293F&border_color=D1D7E0&text_color=FF9F00&icon_color=309898&border_radius=12"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quarkpixel&layout=donut&title_color=D1D7E0&bg_color=24293F&border_color=5D6171&text_color=A3AFC1&border_radius=12"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=quarkpixel&show_icons=true&title_color=293E91&bg_color=FFFFFF&border_color=BB2525&text_color=BB2525&icon_color=F68F00&border_radius=12"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quarkpixel&layout=donut&border_color=E4AAAA&title_color=293E91&border_radius=12"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quarkpixel&layout=donut" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=quarkpixel&show_icons=true&title_color=D1D7E0&bg_color=24293F&border_color=5D6171&text_color=FF9F00&icon_color=FF4B4B&border_radius=12"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=quarkpixel&show_icons=true&title_color=293E91&bg_color=FFFFFF&border_color=E4AAAA&text_color=6B727B&icon_color=BB2626&border_radius=12"
     media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=quarkpixel&show_icons=true" />
 </picture>
+
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/quark-pixel)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.cn/u/quark-pixel/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19973472/quarkpixel)
+[![Unsplash](https://img.shields.io/badge/Unsplash-000000.svg?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@quarkpixel)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/quark_pixel/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Quark_Pixel/)
+[![Twitter](https://img.shields.io/badge/Twitter-2A9EF1.svg?style=for-the-badge)](https://twitter.com/quark_pixel)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer.dark.png">
