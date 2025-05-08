@@ -1,0 +1,46 @@
+name: Update WakaTime Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 0:00 运行
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  update-wakatime-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch WakaTime stats and generate SVG
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          # 调用 WakaTime API 获取总编码时间
+          curl -s -H "Authorization: Basic $(echo -n $WAKATIME_API_KEY | base64)" \
+            "https://wakatime.com/api/v1/users/current/stats/all_time" > wakatime_stats.json
+
+          # 提取总编码时间
+          TOTAL_TIME=$(jq -r '.data.human_readable_total' wakatime_stats.json)
+
+          # 替换空格为 URL 编码的 %20
+          TOTAL_TIME_ENCODED=$(echo "$TOTAL_TIME" | sed 's/ /%20/g')
+
+          # 从 Shields.io 下载 SVG 徽章
+          curl -s "https://img.shields.io/badge/WakaTime-${TOTAL_TIME_ENCODED}-blue?style=for-the-badge&logo=wakatime" \
+            -o assets/wakatime_badge.svg
+
+      - name: Update README
+        run: |
+          # 确保 README 中引用正确的 SVG 文件
+          if ! grep -q "![WakaTime Stats](assets/wakatime_badge.svg)" README.md; then
+            echo -e "\n## 编码统计\n![WakaTime Stats](assets/wakatime_badge.svg)" >> README.md
+          fi
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add assets/wakatime_badge.svg README.md
+          git commit -m "Update WakaTime badge" || echo "No changes to commit"
+          git push
