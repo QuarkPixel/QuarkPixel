@@ -64,7 +64,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quarkpixel&layout=donut&title_color=D1D7E0&bg_color=24293F&border_color=5D6171&text_color=A3AFC1&border_radius=12"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quarkpixel&layout=donut&title_color=D1D7E0&bg_color=24293F&border_color=5D6171&text_color=FF9F00&border_radius=12"
     media="(prefers-color-scheme: dark)"
   />
   <source
