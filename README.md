@@ -5,9 +5,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&duration=3000&pause=100&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+light+and+dark+modes.;You+are+using+dark+mode+%3A+)">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&duration=3000&pause=100&color=BB2525&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+dark+and+light+modes.;You+are+using+light+mode+%3A+)">
-  <img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&duration=3000&pause=100&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust." alt="Typing SVG">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+light+and+dark+modes.;You+are+using+dark+mode+%3A+)">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&color=BB2525&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust.;This+README+is+compatible+with+both+dark+and+light+modes.;You+are+using+light+mode+%3A+)">
+  <img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=64&color=FF4B4B&center=true&vCenter=true&width=1280&height=100&lines=I%27m+Xuancong+Meng;Aka+Hsuan!;A+student.;Stay+hungry.+Stay+foolish.;Exploring+Rust." alt="Typing SVG">
 </picture>
 
 <picture>
