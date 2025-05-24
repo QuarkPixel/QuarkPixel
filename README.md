@@ -18,6 +18,7 @@
 
 ### Hi 👋, I'm Xuancong Meng, or just Hsuan.
 
+[![https://quarkpixel.github.io/](https://img.shields.io/badge/-→%20Go%20to%20Hsuan's%20Space%20←-FF4E4D?style=for-the-badge&logo=link&logoColor=white)](https://quarkpixel.github.io/)
 [![wakatime](https://wakatime.com/badge/user/018b19a3-343c-48f6-8ba9-5713e3a014cc.svg?style=for-the-badge)](https://wakatime.com/@018b19a3-343c-48f6-8ba9-5713e3a014cc)
 
 - 🔭 I’m currently learning through the project [ChunkedVec](https://crates.io/crates/chunked_vec)
