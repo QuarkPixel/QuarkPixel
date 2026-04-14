@@ -65,6 +65,8 @@
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
+![Contributions Overview](profile-3d-contrib/profile-customize.svg)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quarkpixel&layout=donut&title_color=D1D7E0&bg_color=24293F&border_color=5D6171&text_color=FF9F00&border_radius=12"
