@@ -65,9 +65,19 @@
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
-![Contributions Overview](profile-3d-contrib/profile-customize.svg)
-
 <picture>
+  <source
+    srcset="profile-3d-contrib/profile-night-rainbow.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="profile-3d-contrib/profile-season-animate.svg"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=quarkpixel&show_icons=true" />
+</picture>
+
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quarkpixel&layout=donut&title_color=D1D7E0&bg_color=24293F&border_color=5D6171&text_color=FF9F00&border_radius=12"
     media="(prefers-color-scheme: dark)"
@@ -77,9 +87,9 @@
     media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quarkpixel&layout=donut" />
-</picture>
+</picture> -->
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=quarkpixel&show_icons=true&title_color=D1D7E0&bg_color=24293F&border_color=5D6171&text_color=FF9F00&icon_color=FF4B4B&border_radius=12"
     media="(prefers-color-scheme: dark)"
@@ -89,7 +99,7 @@
     media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=quarkpixel&show_icons=true" />
-</picture>
+</picture> -->
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/quark-pixel)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.cn/u/quark-pixel/)
