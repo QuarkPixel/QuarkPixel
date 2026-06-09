@@ -27,7 +27,7 @@
 
 <!-- - ⚡ Fun Fact ⚡: I’m super nitpicky about clean code (misaligned braces haunt me) and a hopeless aesthetic nerd for polished, drool-worthy UIs. -->
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 Tech 𝗦𝘁𝗮𝗰𝗸
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
